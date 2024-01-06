@@ -37,7 +37,7 @@ const Introduction = () => {
             <div className="Resume">
                 <button className='resumebtn' >
                     <img src={hireme} alt="" />
-                    <a href="https://github.com/iharsh7/Resume/blob/main/Aryan'sResume12Dec.pdf">Resume</a>
+                    <a href="https://github.com/iharsh7/Resume/blob/main/AryanjanResume.pdf">Resume</a>
                 </button>
             </div>
         </div>
